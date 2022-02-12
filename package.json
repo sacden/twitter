@@ -14,7 +14,8 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "@expo/vector-icons": "^12.0.0",
+    "@expo/plist": "^0.0.17",
+    "@expo/vector-icons": "^12.0.4",
     "@react-navigation/bottom-tabs": "^6.0.5",
     "@react-navigation/native": "^6.0.2",
     "@react-navigation/native-stack": "^6.1.0",
@@ -31,6 +32,7 @@
     "react-native": "0.64.3",
     "react-native-safe-area-context": "3.3.2",
     "react-native-screens": "~3.10.1",
+    "react-native-vector-icons": "^9.0.0",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
